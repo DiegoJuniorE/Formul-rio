@@ -1,0 +1,31 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: w;
+    font-size: 1rem;
+    
+}
+.container{
+    width: 80%;
+   margin: auto;
+}
+
+h1{
+    text-align: center;
+}
+p{
+    font-size: 1.1rem;
+}
+.botao:hover{
+    border-radius: 3px;
+    margin: 3px;
+    background-color: #abe7ff;
+    color:  black;
+}
+.botao{
+    background-color: whitesmoke;
+}
+fieldset{
+    background-color: #5ce7ff; 
+    box-shadow: 10px 15px 10px 15px #888888;
+}
