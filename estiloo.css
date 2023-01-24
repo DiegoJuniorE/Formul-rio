@@ -1,0 +1,22 @@
+header{  
+    color: black; 
+    background: #BBBBBB;  
+    text-transform: uppercase; 
+    padding: 5px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+footer{
+   color: black;
+    display: flex;
+    justify-content: space-around;
+    text-transform: uppercase; 
+    width: auto; 
+    background: #BBBBBB;
+
+}

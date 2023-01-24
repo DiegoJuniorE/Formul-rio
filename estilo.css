@@ -1,13 +1,15 @@
 body{
     padding: 0;
     margin: 0;
-    background-color: w;
+    background: rgb(21,108,223);
+background: linear-gradient(90deg, rgba(21,108,223,0.0718662464985994) 0%, rgba(8,175,246,0.06066176470588236) 35%, rgba(0,212,255,1) 100%);
     font-size: 1rem;
     
 }
 .container{
     width: 80%;
    margin: auto;
+   color: black;
 }
 
 h1{
@@ -19,13 +21,13 @@ p{
 .botao:hover{
     border-radius: 3px;
     margin: 3px;
-    background-color: #abe7ff;
-    color:  black;
+    background-color:#abe7ff;
+    color:  rgb(8, 43, 243);
 }
 .botao{
     background-color: whitesmoke;
 }
 fieldset{
-    background-color: #5ce7ff; 
-    box-shadow: 10px 15px 10px 15px #888888;
+    background: rgb(21,108,223);
+background: linear-gradient(90deg, rgba(21,108,223,0.8281687675070029) 0%, rgba(8,63,246,0.8141631652661064) 35%, rgba(173,0,255,0.9094012605042017) 100%);
 }
